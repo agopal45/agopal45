@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**agopal45/agopal45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Akhil Gopal
 
-Here are some ideas to get you started:
+**IT Intern @ Voya | Data Structures TA @ Georgia Tech | Aspiring Software Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+I'm currently an IT Intern at Voya and a Data Structures Teaching Assistant at Georgia Tech, entering my third year as a CS and Math student. My top skills include Java, SQL, and Python. I am passionate about building software that makes a difference.
+
+---
+
+### Featured Project: Money Parce
+
+One of my proudest achievements is [Money Parce](https://github.com/agopal45/money-parce), a full-stack group project designed to help students track their finances. Built using Python and the Django framework, our team implemented 20+ user stories over two 2-week sprints, gaining hands-on experience in Agile and Scrum methodologies.
+
+---
+
+### Skills
+
+- **Languages:** Java, Python, SQL
+- **Frameworks:** Django
+- **Concepts:** Data Structures, Agile/Scrum, Full Stack Development
+
+---
+
+### Fun Fact
+
+Gardening is my favorite hobby—I once grew and ate my own pineapple plant!
+
+---
+
+### Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/akhil-gopal)
