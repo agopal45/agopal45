@@ -14,8 +14,10 @@ I'm currently an IT Intern at Voya and a Data Structures Teaching Assistant at G
 
 ### Featured Project: Money Parce
 
-One of my proudest achievements is [Money Parce](https://github.com/agopal45/money-parce), a full-stack group project designed to help students track their finances. Built using Python and the Django framework, our team implemented 20+ user stories over two 2-week sprints, gaining hands-on experience in Agile and Scrum methodologies.
-
+One of my proudest achievements is [Money Parce](https://github.com/imermigkas3/MoneyParce), a full-stack group project designed to help students track their finances. Built using Python and the Django framework, our team implemented 20+ user stories over two 2-week sprints, gaining hands-on experience in Agile and Scrum methodologies.
+This application is deployed and can be accessed here:
+[Money Parce]
+(https://moneyparce-7etg.onrender.com/)
 ---
 
 ### Skills
