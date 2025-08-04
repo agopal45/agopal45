@@ -30,7 +30,7 @@ This application is deployed and can be accessed here:
 
 ### Fun Fact
 
-Gardening is my favorite hobby—I once grew and ate my own pineapple plant!
+Gardening is my favorite hobby and this Summer I grew and ate my own pineapple plant!
 
 ---
 
